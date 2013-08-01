@@ -1,3 +1,9 @@
+<!-- high level notes -->
+<!-- put a lot more context in here.  what are my learning objectives.  people need help focusing their energy.  where should they spend the most time.  when i'm reading a chapter, do i need to skim it, what are the big ideas that i should not leave without understanding.  is my goal to develop just a passing familiarity with the concepts introduced in a certain book.  should i have built the todo app in basic iOS before moving on? if i struggle on it, should I move to the objective C work which might fill in my gaps?  give high level time constraints, spend at least X time on section 1, but definitely don't spend more than Y time -->
+<!-- I personally would like a higher level understanding of how iOS works.  for example, in web development, i dynamically create HTML which I send to the browser and it knows how to render that to the end user.  What's happening in iOS.  When I have some kind of web app backend, and I send the iOS client JSON, what exactly does iOS do with it, does it have some markup language it uses to "render" stuff to the screen? should I be sending it HTML?  Maybe you could write your own high level into that's like here's a basic flow of how a typical iOS app would work? -->
+<!-- what should I do if I get stuck somewhere, is stackoverflow a good resource?  how do i debug? can i contact you? should i just skip stuff if i get stuck? -->
+<!-- in general, this feels like a LOT of shit to get through.  how advanced does this prework get? do you want people to be doing pretty advanced stuff on their own and getting lost or frustrated?  this was a point avi/ashley raised to me and I think is very valid. -->
+
 This list comes from keeping track of what has been useful and not useful from
 the past few years of learning iOS on my own. I'm compiling this to be a sort
 of reference guide for the students in my upcoming class at [The Flatiron School](http://flatironschool.com/iOScurriculum.html "Flatiron School iOS Curriculum").
@@ -39,7 +45,7 @@ Beginner
   - Big Nerd Ranch Chapter 3
   - Big Nerd Ranch Pages 85-86
   - Big Nerd Ranch Chapter pages 92-100
-
+<!-- am I supposed to read the advanced thing here even though I'm trying to do basic iOS? -->
 Advanced
 ---------
   - BNR Chapter 8
@@ -151,6 +157,7 @@ Integrating with APIs and Social Media
 Nothing exists in a vacuum. Apps are expected to share effortlessly and backup
 to the cloud. The beginner section has some of the super simple stuff and is
 all you really need to get started. Once you've figured out some of the built
+<!-- what is helios? -->
 in features of iOS and Helios, the intermediate section will show you how to
 add custom sharing features as well as the basics of talking to custom APIs.
 
